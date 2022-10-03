@@ -52,6 +52,7 @@ form {
   justify-content: space-between;
   align-self: center;
   height: 2em;
+  cursor: pointer;
 }
 
 .nav-list {
